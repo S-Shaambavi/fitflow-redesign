@@ -1,5 +1,7 @@
 # FitFlow Redesign
 
+Technology selection, architecture design and supporting documentation for the FitFlow HCI redesign project.
+
 FitFlow is a redesigned fitness tracking application created as part of the IT3060 Human Computer Interaction module.
 
 ## Project Objectives
